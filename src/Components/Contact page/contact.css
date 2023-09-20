@@ -1,0 +1,52 @@
+/* Style the form container */
+.form-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    height: 400px;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Style form labels */
+.form-label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Style form inputs */
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style the submit button */
+.form-submit {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style error messages */
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 600px) {
+    .form-container {
+        width: 90%;
+        max-width: none;
+    }
+}
