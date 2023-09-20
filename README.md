@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+#  Studio Graphene Frontend Assignment Readme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Introduction](#introduction)
+- [Assignment Overview](#assignment-overview)
+- [Assignment Sections](#assignment-sections)
+- [Tech Stack](#tech-stack)
+  
+## Introduction
 
-In the project directory, you can run:
+This README provides an overview of the Frontend Assignment and outlines the key sections and instructions for about the assignment.
 
-### `npm start`
+## Assignment Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Frontend Assignment is designed to assess your UI design and implementation skills. It involves creating a dynamic user interface with specific requirements. The assignment includes several sections, each focusing on different aspects of frontend development.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project Live:
 
-### `npm test`
+**Deployment:** <a href="https://650b3e5e7c593134b79d188e--sunny-beignet-839bb8.netlify.app/products">link</a> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2023-09-21 004108](https://github.com/warriorruchi/StudioGraphene-Assigement/assets/120272171/d055c150-7b96-4e66-a246-cf28a0287074)
 
-### `npm run build`
+## Assignment Sections
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Dynamic Top Menu:** Create a dynamic top menu using the provided array of navigation items.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Banner:** Display the text "Fresh 2022 look" on the banner.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **API Integration:** Retrieve product data and product category data from external APIs and display the product information as cards on the product page.
 
-### `npm run eject`
+4. **Contact Us:** Create a contact form with validation to ensure user input meets specific criteria.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. **Additional Details:** Please refer to the assignment document for additional details and requirements for each section.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## **Tech stacks used :**
+To create this clone following Tech stack is used by contributors.  
+<br>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/reactjs-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/chakraUI-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Evaluation
 
-## Learn More
+The assignment will be evaluated based on the following criteria:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Attention to detail and adherence to assignment requirements.
+- UI design and aesthetics.
+- Code quality, organization, and structure.
+- Successful integration of external APIs (if applicable).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation and Setup Instructions
+Clone down this repository using this <a href="https://github.com/warriorruchi/StudioGraphene-Assigement">link</a> 
+<hr/>
 
-### Code Splitting
+## Getting Started
+To run this project locally, follow these steps:
+1.**Install project dependencies**:npm install
+2.**Start the development server**:npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
